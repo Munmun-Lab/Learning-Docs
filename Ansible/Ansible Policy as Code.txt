@@ -1,0 +1,33 @@
+🧱 Foundational Questions
+What does “Policy as Code” mean in the context of Ansible?
+How can Ansible enforce security/compliance policies automatically?
+What’s the difference between using roles vs. playbook-level policies?
+How does Policy as Code improve infrastructure governance with Ansible?
+🛠️ Tooling & Frameworks
+What Ansible roles or collections exist for implementing CIS or DISA STIG policies?
+How can ansible-lint be used to enforce playbook best practices?
+How do you integrate Ansible with OpenSCAP for compliance scanning?
+Can Ansible be integrated with OPA/Conftest for policy validation?
+🔒 Security and Compliance
+How do you apply CIS benchmarks using Ansible?
+How can Ansible roles be used to enforce password policies, SSH hardening, and firewall rules?
+How do you build repeatable, auditable playbooks for security hardening?
+How do you detect and remediate drift using Ansible and PaC?
+🚀 CI/CD and Automation
+How do you run policy checks on Ansible playbooks in CI (e.g., GitHub Actions)?
+What linters or scanners can validate infrastructure code before it runs?
+How do you automate policy enforcement using Event-Driven Ansible?
+What’s a good workflow for pull-request-driven policy enforcement?
+📦 Role and Content Design
+How do you structure Ansible roles to make policies modular and reusable?
+How do you version control compliance roles?
+How can Jinja templating be dangerous from a policy point of view?
+How do you define and enforce tagging/naming standards with Ansible?
+📊 Auditing & Reporting
+How do you generate compliance reports from Ansible playbooks?
+What tools can help monitor policy adherence over time?
+How can Ansible help prove infrastructure compliance to auditors?
+🧠 Example Deep-Dive Questions
+Can you show an example Ansible role that enforces SSH hardening?
+How do you use compliance.as_role to apply OpenSCAP profiles?
+How do you write a policy that prevents Ansible from opening port 22 to 0.0.0.0/0?

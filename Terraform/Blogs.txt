@@ -1,0 +1,82 @@
+Dumb:
+1. https://www.dumpsbase.com/freedumps/?s=Terraform  -> DONE
+
+2. https://www.freecram.net/exam/Terraform-Associate-003-hashicorp-certified-terraform-associate-003-hcta0-003-e15570.html#
+
+3. https://github.com/devenes/HashiCorp-Certified-Terraform-Associate/blob/main/images/terraform.png -> DONE
+
+4. https://awslagi.com/course/hashicorp-terraform-associate-actual-exam/lessons/terraform-associate-hashicorp-certified-part-3/ -> DONE
+
+Questions Blog:
+***************
+1. https://atul-kamble.medium.com/250-practice-questions-for-terraform-associate-certification-1cf5eab8def8
+
+
+Article/Blogs:
+*https://developer.hashicorp.com/terraform/tutorials/certification-004/associate-review-004
+https://medium.com/@pankajkumar1881991/types-of-block-and-its-usage-in-terraform-a4bb0de772c4
+
+
+
+1.https://spacelift.io/blog/terraform-provisioners
+
+2. https://spacelift.io/blog/terraform
+
+3. https://spacelift.io/blog/terraform-fileset
+
+4. https://spacelift.io/blog/terraform-providers
+https://scalr.com/learning-center/terraform-provider-configurations-and-aliases/
+
+5. https://spacelift.io/blog/terraform-validate
+
+6. https://spacelift.io/blog/terraform-data-sources-how-they-are-utilised
+
+7. https://spacelift.io/blog/terraform-resources
+https://pswalia2u.medium.com/iaac-cross-referencing-attributes-d29fde872c03
+
+15. https://scalr.com/learning-center/terraform-meta-arguments-the-key-to-powerful-infrastructure-as-code/
+https://spacelift.io/blog/terraform-count
+
+16. https://spacelift.io/blog/how-to-use-terraform-variables
+https://www.woodruff.dev/terraform-variables-outputs-the-secret-sauce-of-reusable-infrastructure/
+
+17. https://spacelift.io/blog/terraform-functions-expressions-loops
+https://kodekloud.com/blog/terraform-dynamic-block/
+https://spacelift.io/blog/terraform-dynamic-blocks
+
+18. https://spacelift.io/blog/terraform-dependencies
+https://scalr.com/blog/terraform-resource-dependencies-explained
+
+19. https://spacelift.io/blog/terraform-precondition-postcondition
+
+20. https://www.firefly.ai/academy/secret-management-in-terraform-keeping-sensitive-data-out-of-state-files
+https://spacelift.io/blog/terraform-security
+
+21. https://spacelift.io/blog/what-are-terraform-modules-and-how-do-they-work
+https://scalr.com/blog/terraform-modules-explained
+https://www.firefly.ai/academy/creating-reusable-terraform-modules-for-cloud-governance
+
+22. https://scalr.com/learning-center/terraform-modules-explained/
+https://scalr.com/learning-center/terraform-modules-fundamentals/
+https://scalr.com/learning-center/terraform-modules-explained/
+
+23. https://spacelift.io/blog/terraform-backends
+https://spacelift.io/blog/terraform-locals
+
+24. ttps://spacelift.io/blog/terraform-state
+https://www.firefly.ai/academy/understanding-state-locking-and-versioning-in-terraform
+https://spacelift.io/blog/terraform-lock-hcl-file
+
+25. https://spacelift.io/blog/terraform-drift-detection
+
+26. https://spacelift.io/blog/importing-exisiting-infrastructure-into-terraform
+
+27. https://spacelift.io/blog/terraform-commands-cheat-sheet (Use the CLI to inspect state)
+
+28. https://spacelift.io/blog/terraform-debug
+
+29. https://scalr.com/learning-center/terraform-workspaces/
+https://medium.com/@nbkumar2103/-60f12de656d1
+
+
+

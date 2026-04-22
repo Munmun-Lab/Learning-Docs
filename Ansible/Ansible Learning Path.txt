@@ -1,0 +1,27 @@
+🛠️ Suggested Step‑by‑Step Learning Path for Ansible
+Here’s how you can use these materials to learn Ansible thoroughly:
+Basics & Setup
+Understand what Ansible is, how it works (agentless, SSH, etc.)
+Install Ansible locally (on Linux / VM)
+Core Concepts
+Inventory, hosts, groups
+Ad‑hoc commands vs playbooks
+Modules & tasks
+Writing Playbooks
+YAML syntax, variables, loops, conditionals
+Handlers, templates (Jinja2), files, templates, copying files, etc.
+Roles & Organization
+Structuring playbooks, using roles for reuse
+Best practices
+Advanced Features
+Secrets / vaults
+Dynamic inventories
+Testing & idempotence
+Use of collections and plugins
+Practice / Projects
+Build small automation projects (e.g. setting up a web server + database on VMs)
+Use version control
+Clean up, refactor into roles etc
+Reference / Cheat Sheets
+Keep module index handy
+Ansible‑doc command on local machine is useful for offline module reference
